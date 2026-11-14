@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/_next/static/chunks/1elatfxr7k-ev.js"
+9:I[62319,["$2","$8"],"default"]
+a:I[92349,["$2","$8"],"default"]
+b:I[79356,["$2","$8"],"default"]
+c:I[24232,["$2","$8"],"default"]
+d:I[2497,["$2","$8"],"default"]
+e:I[59137,["$2","$8"],"default"]
+f:I[69195,["$2","$8"],"default"]
+10:I[63971,["$2","$8"],"default"]
+11:I[97367,["$2"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2"],"$17"]
+19:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/2zg_sjzrdhrwk.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],"        ",["$","$Lf",null,{}],"    ",["$","section",null,{"className":"py-20 bg-primary text-white text-center","children":[["$","h2",null,{"className":"text-2xl font-bold","children":"¿Necesita una inspección?"}],["$","a",null,{"href":"https://wa.me/51931089649","className":"mt-6 inline-block bg-white text-primary px-4 md:px-6 py-3 rounded","children":"WhatsApp"}]]}],["$","$L10",null,{}],["$","footer",null,{"className":"py-10 text-center bg-gray-200","children":["$","p",null,{"children":"© 2026 CERTIGOOD LABORATORIOS"}]}],["$","a",null,{"href":"https://wa.me/51931089649","target":"_blank","className":"fixed bottom-6 right-6 bg-green-500 text-white px-4 py-3 rounded-full shadow-lg","children":"WhatsApp"}]],[["$","script","script-0",{"src":"/_next/static/chunks/1elatfxr7k-ev.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2zg_sjzrdhrwk.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1ua2kfq9s-me6.js","async":true}]],["$","html",null,{"lang":"es","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"CERTIGOOD LABORATORIOS"}],["$","meta","1",{"name":"description","content":"Inspección y certificación alimentaria"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0c9-ilw_5iboj.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","3",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$6"}},"a":"$@1b","u":"$@1c","b":"JX8GSye_2rkhyCi4E863G"}
+13:null
+6:300
+1c:true
+6:C
+1b:0
+5:"$undefined"
+1a:"$undefined"
+14:"$undefined"
