@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* Base */
+body {
+  background-color: #ffffff;
+  color: #1f2937;
+}
+
+/* Animación */
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-down {
+  animation: slide-down 0.3s ease-out;
+}
+
+/* ✅ Estilo corporativo morado */
+.card {
+  border: 2px solid #7b2cbf;
+  box-shadow: 0 0 10px rgba(123, 44, 191, 0.3);
+}
+
+/* Opcional */
+.border-purple {
+  border: 2px solid #7b2cbf;
+}
